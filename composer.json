@@ -1,6 +1,16 @@
 {
 	"name": "mycenter/testcompm",
 	"description": "Test composed module",
+	"keywords": ["test"],
+	"type": "library",
+	"license": "MIT",
+	"authors": [
+        {
+            "name": "Athanasios Galanis",
+            "email": "ath.galanis@gmail.com",
+            "homepage": "http://www.mycenter.gr"
+        }
+],
 	"require": {
 		"php": "^5.6 || ^7.0"
 	}
