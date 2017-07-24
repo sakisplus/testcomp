@@ -1,7 +1,7 @@
 {
 	"name": "mycenter/testcompm",
 	"description": "Test composed module",
-	"version": "2.x-dev",
+	"version": "2.0.x-alpha3",
 	"keywords": ["test"],
 	"type": "library",
 	"license": "MIT",
