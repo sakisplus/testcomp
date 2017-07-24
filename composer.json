@@ -1,6 +1,7 @@
 {
 	"name": "mycenter/testcompm",
 	"description": "Test composed module",
+	"version": "@alpha",
 	"keywords": ["test"],
 	"type": "library",
 	"license": "MIT",
